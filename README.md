@@ -1,9 +1,10 @@
 ### Hi 👋, I'm Berfin 
-#:information_desk_person: I'm a Student, Undergraduate, Developer! \
--🌱 I’m currently learning Fullstack and Image Processing
--👯 I’m looking to collaborate with other content creators
--📫 How to reach me: berfinyaliniz1@hotmail.com
-Connect with me:
+:information_desk_person: ### I'm a Student, Undergraduate, Developer! \
+🌱 I’m currently learning Fullstack and Image Processing \
+👯 I’m looking to collaborate with other content creators \
+📫 How to reach me: berfinyaliniz1@hotmail.com \
+
+Connect with me: 
 
 <!--
 **berfin22/berfin22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
