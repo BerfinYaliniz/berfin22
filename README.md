@@ -1,8 +1,8 @@
 ### Hi 👋, I'm Berfin 
 #:information_desk_person: I'm a Student, Undergraduate, Developer!
-🌱 I’m currently learning Fullstack and Image Processing
-👯 I’m looking to collaborate with other content creators
-📫 How to reach me: berfinyaliniz1@hotmail.com
+-🌱 I’m currently learning Fullstack and Image Processing
+-👯 I’m looking to collaborate with other content creators
+-📫 How to reach me: berfinyaliniz1@hotmail.com
 Connect with me:
 
 <!--
