@@ -1,7 +1,7 @@
 ### Hi 👋, I'm Berfin 
- ## I'm a Student, Undergraduate, Developer! :information_desk_person:\ 
+ ## I'm a Student, Undergraduate, Developer! :information_desk_person: 
 🌱 I’m currently learning Fullstack and Image Processing \
-👯 I’m looking to collaborate with other content creators \
+👯 I’m looking to collaborate with other content creators 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=berfin22&show_icons=true&theme=tokyonight&hide=hack)
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=berfin22&theme=tokyonight&hide=hack)
