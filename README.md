@@ -1,7 +1,7 @@
 ### Hi 👋, I'm Berfin 
  ## I'm a Student, Undergraduate, Developer! :information_desk_person: 
-🌱 I’m currently learning Fullstack and Image Processing \
-👯 I’m looking to collaborate with other content creators 
+🌱 I’m currently learning React.Js \
+👯 I would like to collaborate with other creators. 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=berfin22&show_icons=true&theme=tokyonight&hide=hack)
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=berfin22&theme=tokyonight&hide=hack)
@@ -20,9 +20,9 @@
 
 ## 📫 How to reach me: 
 <p>
- <a href="https://github.com/berfin22" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a>
- <a href="https://www.linkedin.com/in/berfin-yaliniz/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
- <a href="mailto:berfinyaliniz1@hotmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+ <a href="https://github.com/berfin22" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Python" height="40" style="vertical-align:top; margin:4px color:white"> </a>
+ <a href="https://www.linkedin.com/in/berfin-yaliniz/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px color:white"></a>
+ <a href="mailto:berfinyaliniz1@hotmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="color:white vertical-align:top; margin:4px"></a>
 </p>
 <!--
 **berfin22/berfin22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
