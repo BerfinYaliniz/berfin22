@@ -1,6 +1,6 @@
 ### Hi 👋, I'm Berfin 
  ## I'm a Student, Undergraduate, Developer! :information_desk_person: 
-🌱 I’m currently learning React.Js \
+🌱 I’m currently Backend Java Developer \
 👯 I would like to collaborate with other creators. 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=berfin22&show_icons=true&theme=tokyonight&hide=hack)
