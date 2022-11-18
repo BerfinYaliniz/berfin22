@@ -19,11 +19,11 @@
 </p>
 
 ## 📫 How to reach me: 
-<p>
- <a href="https://github.com/berfin22" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Python" height="40" style="vertical-align:top; margin:4px color:white"> </a>
- <a href="https://www.linkedin.com/in/berfin-yaliniz/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px color:white"></a>
- <a href="mailto:berfinyalinz1@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="color:white vertical-align:top; margin:4px"></a>
-</p>
+<div id="badges">
+  <a href="[your-linkedin-URL](https://www.linkedin.com/in/berfin-yaliniz/)">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
 <!--
 **berfin22/berfin22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
