@@ -3,8 +3,7 @@
 🌱 I’m currently Backend Java Developer \
 👯 I would like to collaborate with other creators. 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=berfin22&show_icons=true&theme=tokyonight&hide=hack)
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=berfin22&theme=tokyonight&hide=hack)
+
 
 ## Languages and Tools:
 <p>
