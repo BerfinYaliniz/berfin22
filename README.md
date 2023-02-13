@@ -1,7 +1,6 @@
-### Hi 👋, I'm Berfin 
- ## I'm a Student, Undergraduate, Developer! :information_desk_person: 
-🌱 I’m currently Backend Java Developer \
-👯 I would like to collaborate with other creators. 
+### Hi , I'm Berfin 👋
+ ## I'm a Backend Developer! :information_desk_person: 
+ I would like to collaborate with other creators. 👯
 
 
 
